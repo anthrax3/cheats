@@ -1,5 +1,5 @@
 +++
-title = "Pass"
+title = "Zathura"
 +++
 
 Core
